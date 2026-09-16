@@ -1,0 +1,233 @@
+{
+ "ref": "029007842610",
+ "refDisplay": "0290 07 842610",
+ "title": "VITRE PORTE LATERALE AR BATTANTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2M",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2M",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2P",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2P",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Y",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Y",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Z",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Z",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2J",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2J",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2S",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2S",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2G",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2G",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Q",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Q",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2K",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2K",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Y",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Y",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2P",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2P",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F4Y",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F4Y",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Z",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Z",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2S",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2S",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F5T",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F5T",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2K",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2K",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Y",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Y",
+   "fctId": "FCT0329"
+  }
+ ]
+}

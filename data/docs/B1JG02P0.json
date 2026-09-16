@@ -1,0 +1,65 @@
+{
+ "ref": "B1JG02P0",
+ "refDisplay": "B1JG02P0",
+ "title": "Dépose - repose : sonde à oxygène",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2M",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Y",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2G",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F4Y",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F5T",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DA5&B0F=B0F2M",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Y",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DC5&B0F=B0F5T",
+   "fctId": "FCT0012"
+  }
+ ]
+}

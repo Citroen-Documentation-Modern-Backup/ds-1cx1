@@ -1,0 +1,85 @@
+{
+ "ref": "C5HE06P0",
+ "refDisplay": "C5HE06P0",
+ "title": "Contrôle et réglage : entrefer de l’embrayage du compresseur de réfrigération HARISSON",
+ "nature": "Contrôles réglages",
+ "applicability": "REFRIGERATION REGULEE",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2J",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2S",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Y",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2S",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Y",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DA5&B0F=B0F2J",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DA5&B0F=B0F2S",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Y",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DC5&B0F=B0F2S",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Y",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DCE&B0F=B0F2J",
+   "fctId": "FCT0347"
+  }
+ ]
+}

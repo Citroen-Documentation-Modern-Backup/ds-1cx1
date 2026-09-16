@@ -1,0 +1,35 @@
+{
+ "ref": "B1JT03P0",
+ "refDisplay": "B1JT03P0",
+ "title": "Évolution  : ligne d’échappement",
+ "nature": "Évolutions",
+ "applicability": " DEPUIS OPR 5867",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Y",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Y",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Y",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Y",
+   "fctId": "FCT0011"
+  }
+ ]
+}

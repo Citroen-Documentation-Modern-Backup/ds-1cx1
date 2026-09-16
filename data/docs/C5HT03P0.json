@@ -1,0 +1,30 @@
+{
+ "ref": "C5HT03P0",
+ "refDisplay": "C5HT03P0",
+ "title": "Évolution  : coupure réfrigération",
+ "nature": "Évolutions",
+ "applicability": "REFRIGERATION REGULEE DEPUIS OPR 6965 JUSQU’A OPR 7667",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2J",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0347"
+  }
+ ]
+}

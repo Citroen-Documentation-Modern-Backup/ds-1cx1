@@ -1,0 +1,39 @@
+{
+ "ref": "1CX106001935",
+ "refDisplay": "1CX1 0 600 1935",
+ "title": "JOINT DE COUVERCLE LATERAL",
+ "nature": "",
+ "applicability": "(D003) XANTIA BERLINE 5PTES INJECTION XU7JP",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Y",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Z",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F5T",
+   "fctId": "FCT0017"
+  }
+ ]
+}

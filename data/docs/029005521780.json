@@ -1,0 +1,33 @@
+{
+ "ref": "029005521780",
+ "refDisplay": "0290 05 521780",
+ "title": "CAPSULE CABLE REGULATEUR VITESSES",
+ "nature": "",
+ "applicability": "REGULATION VITESSE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2P",
+   "fctId": "FCT0344"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Q",
+   "fctId": "FCT0344"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2P",
+   "fctId": "FCT0344"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0344"
+  }
+ ]
+}

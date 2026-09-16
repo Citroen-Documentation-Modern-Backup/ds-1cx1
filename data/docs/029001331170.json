@@ -1,0 +1,18 @@
+{
+ "ref": "029001331170",
+ "refDisplay": "0290 01 331170",
+ "title": "CARTER DE BOITE ET FIXATIONS",
+ "nature": "",
+ "applicability": "BVA 4HP20",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0017"
+  }
+ ]
+}

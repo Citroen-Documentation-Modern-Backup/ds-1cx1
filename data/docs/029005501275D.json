@@ -1,0 +1,18 @@
+{
+ "ref": "029005501275D",
+ "refDisplay": "0290 05 501275D",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "BVA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0308"
+  }
+ ]
+}

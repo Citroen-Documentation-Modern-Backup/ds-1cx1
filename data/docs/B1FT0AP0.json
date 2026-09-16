@@ -1,0 +1,40 @@
+{
+ "ref": "B1FT0AP0",
+ "refDisplay": "B1FT0AP0",
+ "title": "Évolution  : crépine d’aspiration d’huile",
+ "nature": "Évolutions",
+ "applicability": "DEPOL CEE 95 (MOTEUR)",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1C2X",
+   "variantKey": "B0D=B0DC5&B0F=B0F3H",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F3H",
+   "fctId": "FCT0008"
+  }
+ ]
+}

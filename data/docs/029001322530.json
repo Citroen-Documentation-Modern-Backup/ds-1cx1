@@ -1,0 +1,18 @@
+{
+ "ref": "029001322530",
+ "refDisplay": "0290 01 322530",
+ "title": "CONVERTISSEUR",
+ "nature": "",
+ "applicability": "BVA 4HP20",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0016"
+  }
+ ]
+}

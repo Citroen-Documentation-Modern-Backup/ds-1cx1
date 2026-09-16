@@ -1,0 +1,18 @@
+{
+ "ref": "029006640630G",
+ "refDisplay": "0290 06 640630G",
+ "title": "COMPRESSEUR DETAIL",
+ "nature": "",
+ "applicability": "REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0347"
+  }
+ ]
+}

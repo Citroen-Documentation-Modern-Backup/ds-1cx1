@@ -1,0 +1,18 @@
+{
+ "ref": "029004451216",
+ "refDisplay": "0290 04 451216",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": "ANTI-BLOCAGE ROUE JUSQU’A OPR 07482",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F4Y",
+   "fctId": "FCT0040"
+  }
+ ]
+}

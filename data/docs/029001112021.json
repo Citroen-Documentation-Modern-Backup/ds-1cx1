@@ -1,0 +1,23 @@
+{
+ "ref": "029001112021",
+ "refDisplay": "0290 01 112021",
+ "title": "CULASSE - COUVRE CULASSE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Z",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Z",
+   "fctId": "FCT0006"
+  }
+ ]
+}

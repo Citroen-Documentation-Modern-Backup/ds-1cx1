@@ -1,0 +1,18 @@
+{
+ "ref": "029001223015",
+ "refDisplay": "0290 01 223015",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": "SANS REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2G",
+   "fctId": "FCT0008"
+  }
+ ]
+}

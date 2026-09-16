@@ -1,0 +1,23 @@
+{
+ "ref": "029006183025",
+ "refDisplay": "0290 06 183025",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": " SAUF DEPOL US 83 (MOTEUR) SAUF DEPOL CEE 19-5 (MOTEUR) SAUF DEPOL CEE 95 (MOTEUR)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F5T",
+   "fctId": "FCT0011"
+  }
+ ]
+}

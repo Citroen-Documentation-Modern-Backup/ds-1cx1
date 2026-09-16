@@ -1,0 +1,18 @@
+{
+ "ref": "029002170071",
+ "refDisplay": "0290 02 170071",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 06779",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0010"
+  }
+ ]
+}

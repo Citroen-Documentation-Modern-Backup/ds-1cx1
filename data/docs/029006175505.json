@@ -1,0 +1,18 @@
+{
+ "ref": "029006175505",
+ "refDisplay": "0290 06 175505",
+ "title": "DEPOLLUTION CANISTER ABSORBEUR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 06777",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2M",
+   "fctId": "FCT0012"
+  }
+ ]
+}

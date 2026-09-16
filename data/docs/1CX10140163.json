@@ -1,0 +1,19 @@
+{
+ "ref": "1CX10140163",
+ "refDisplay": "1CX1 0 14 0163",
+ "title": "CARTER AV ROUE ARBRE CULASSE AR",
+ "nature": "",
+ "applicability": "(D007) XANTIA BERLINE 5PTES INJECTION ES9J4",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0007"
+  }
+ ]
+}

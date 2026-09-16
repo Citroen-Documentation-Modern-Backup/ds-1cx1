@@ -1,0 +1,25 @@
+{
+ "ref": "E3BT03P0",
+ "refDisplay": "E3BT03P0",
+ "title": "Évolution  : faisceau d’injection Xantia Turbo CT",
+ "nature": "Évolutions",
+ "applicability": " DEPUIS OPR 6916",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2K",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2K",
+   "fctId": "FCT0308"
+  }
+ ]
+}

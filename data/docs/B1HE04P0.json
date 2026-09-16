@@ -1,0 +1,20 @@
+{
+ "ref": "B1HE04P0",
+ "refDisplay": "B1HE04P0",
+ "title": "Contrôle  - calage : pompe à injection, équipement LUCAS DIESEL",
+ "nature": "Contrôles réglages",
+ "applicability": "SYSTEME INJECTION LUCAS-DIESEL",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0010"
+  }
+ ]
+}

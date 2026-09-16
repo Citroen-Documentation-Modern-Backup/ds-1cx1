@@ -1,0 +1,18 @@
+{
+ "ref": "029003394421",
+ "refDisplay": "0290 03 394421",
+ "title": "CANALISATION RETOUR SUSPENSION AV",
+ "nature": "",
+ "applicability": "BVA ET POMPE 6+2 + ANTI-AFFAISSEMENT ET SUSPENSION HYDRACTIVE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0337"
+  }
+ ]
+}

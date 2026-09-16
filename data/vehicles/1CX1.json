@@ -1,0 +1,263 @@
+{
+ "ldp": "1CX1",
+ "label": "XANTIA",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DA5",
+     "lib": "BERLINE 5PTES"
+    },
+    {
+     "val": "B0DC5",
+     "lib": "BREAK 5PTES"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0F2M",
+     "lib": "1.6 i"
+    },
+    {
+     "val": "B0F2P",
+     "lib": "1.8 i 16v 112"
+    },
+    {
+     "val": "B0F4Y",
+     "lib": "1.8 i 8v 103"
+    },
+    {
+     "val": "B0F2Z",
+     "lib": "1.8 i 8v 92"
+    },
+    {
+     "val": "B0F5C",
+     "lib": "1.9 D"
+    },
+    {
+     "val": "B0F2J",
+     "lib": "1.9 TD"
+    },
+    {
+     "val": "B0F2S",
+     "lib": "1.9 TD"
+    },
+    {
+     "val": "B0F5T",
+     "lib": "2.0 i"
+    },
+    {
+     "val": "B0F2G",
+     "lib": "2.0 i 16v"
+    },
+    {
+     "val": "B0F2Q",
+     "lib": "2.0 i 16v 135"
+    },
+    {
+     "val": "B0F2K",
+     "lib": "2.0 i 8v Turbo"
+    },
+    {
+     "val": "B0F2Y",
+     "lib": "2.1 TD"
+    },
+    {
+     "val": "B0F3H",
+     "lib": "3.0 i V6 24v 194"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DA5&B0F=B0F2M",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F2M"
+   },
+   "label": "BERLINE 5PTES · 1.6 i"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F2P",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F2P"
+   },
+   "label": "BERLINE 5PTES · 1.8 i 16v 112"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F4Y",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F4Y"
+   },
+   "label": "BERLINE 5PTES · 1.8 i 8v 103"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F2Z",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F2Z"
+   },
+   "label": "BERLINE 5PTES · 1.8 i 8v 92"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F5C",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F5C"
+   },
+   "label": "BERLINE 5PTES · 1.9 D"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F2J",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F2J"
+   },
+   "label": "BERLINE 5PTES · 1.9 TD"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F2S",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F2S"
+   },
+   "label": "BERLINE 5PTES · 1.9 TD"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F5T",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F5T"
+   },
+   "label": "BERLINE 5PTES · 2.0 i"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F2G",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F2G"
+   },
+   "label": "BERLINE 5PTES · 2.0 i 16v"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F2Q",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F2Q"
+   },
+   "label": "BERLINE 5PTES · 2.0 i 16v 135"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F2K",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F2K"
+   },
+   "label": "BERLINE 5PTES · 2.0 i 8v Turbo"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F2Y",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F2Y"
+   },
+   "label": "BERLINE 5PTES · 2.1 TD"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F3H",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F3H"
+   },
+   "label": "BERLINE 5PTES · 3.0 i V6 24v 194"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F2P",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F2P"
+   },
+   "label": "BREAK 5PTES · 1.8 i 16v 112"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F4Y",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F4Y"
+   },
+   "label": "BREAK 5PTES · 1.8 i 8v 103"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F2Z",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F2Z"
+   },
+   "label": "BREAK 5PTES · 1.8 i 8v 92"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F2J",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F2J"
+   },
+   "label": "BREAK 5PTES · 1.9 TD"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F2S",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F2S"
+   },
+   "label": "BREAK 5PTES · 1.9 TD"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F5T",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F5T"
+   },
+   "label": "BREAK 5PTES · 2.0 i"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F2Q",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F2Q"
+   },
+   "label": "BREAK 5PTES · 2.0 i 16v 135"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F2K",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F2K"
+   },
+   "label": "BREAK 5PTES · 2.0 i 8v Turbo"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F2Y",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F2Y"
+   },
+   "label": "BREAK 5PTES · 2.1 TD"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "029006183072",
+ "refDisplay": "0290 06 183072",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "DEPOL US 87 (MOTEUR) JUSQU’A OPR 07145",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0011"
+  }
+ ]
+}

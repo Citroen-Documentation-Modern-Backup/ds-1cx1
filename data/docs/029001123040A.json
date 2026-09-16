@@ -1,0 +1,23 @@
+{
+ "ref": "029001123040A",
+ "refDisplay": "0290 01 123040A",
+ "title": "ARBRE A CAMES COURROIE PIGNON",
+ "nature": "",
+ "applicability": " DEPUIS OPR 07609",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Q",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0007"
+  }
+ ]
+}

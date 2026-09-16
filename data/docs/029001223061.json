@@ -1,0 +1,23 @@
+{
+ "ref": "029001223061",
+ "refDisplay": "0290 01 223061",
+ "title": "REMPLISSAGE HUILE DECANTEUR CANALISATION",
+ "nature": "",
+ "applicability": " SAUF PAYS GRAND FROID",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Q",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0008"
+  }
+ ]
+}

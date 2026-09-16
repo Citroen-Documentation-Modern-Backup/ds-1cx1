@@ -1,0 +1,18 @@
+{
+ "ref": "029001002072",
+ "refDisplay": "0290 01 002072",
+ "title": "ENSEMBLE MOTEUR",
+ "nature": "",
+ "applicability": "DEPOL US 87 (MOTEUR) DEPUIS OPR 06420",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0049"
+  }
+ ]
+}

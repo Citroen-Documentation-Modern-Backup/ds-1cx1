@@ -1,0 +1,20 @@
+{
+ "ref": "E2AK0FP0",
+ "refDisplay": "E2AK0FP0",
+ "title": "Précautions à prendre : boîte de vitesses automatique ",
+ "nature": "Précautions à prendre",
+ "applicability": "BVA 4HP20 ET BVA4",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0017"
+  }
+ ]
+}

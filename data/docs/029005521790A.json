@@ -1,0 +1,18 @@
+{
+ "ref": "029005521790A",
+ "refDisplay": "0290 05 521790A",
+ "title": "CAPSULE CABLE REGULATEUR VITESSES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0344"
+  }
+ ]
+}

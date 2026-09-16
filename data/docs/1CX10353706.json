@@ -1,0 +1,19 @@
+{
+ "ref": "1CX10353706",
+ "refDisplay": "1CX1 0 35 3706",
+ "title": "ELECTROVANNE SUR DISTRIBUTEUR",
+ "nature": "",
+ "applicability": "(D009) XANTIA BERLINE 5PTES INJECTION XU7JP4 BICARBURATION P/A REDUITE GPL+ESSENCE SANS PLOMB",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2P",
+   "fctId": "FCT0010"
+  }
+ ]
+}

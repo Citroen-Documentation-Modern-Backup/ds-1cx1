@@ -1,0 +1,18 @@
+{
+ "ref": "029001002015",
+ "refDisplay": "0290 01 002015",
+ "title": "ENSEMBLE MOTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX1",
+   "variantKey": "B0D=B0DA5&B0F=B0F2M",
+   "fctId": "FCT0049"
+  }
+ ]
+}
