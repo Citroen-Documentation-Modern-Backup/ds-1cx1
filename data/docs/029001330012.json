@@ -1,18 +1,1 @@
-{
- "ref": "029001330012",
- "refDisplay": "0290 01 330012",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM BE3",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX1",
-   "variantKey": "B0D=B0DC5&B0F=B0F2P",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"029001330012","refDisplay":"0290 01 330012","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM BE3","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX1","variantKey":"B0D=B0DC5&B0F=B0F2P","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CX1)(B0F2P)(@DBMRGD)(B0DC5)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"21","code":"L0851319"},[]],["thesaurus",{"type":"21","code":"L0851317"},[]],["mpr",{"catal":"0290","grp":"67","grp2":"01","maj":"20110924","numfich":"330012"},[["appl",{},["{(?1CX1)(B0F2P)(@DBMRGD)(B0DC5)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00005094","path":"/img/pr/94/0000/00005094.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002201RZ","refpg":"2201 RZ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)(DCW66)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X75"]]]],["reporg",{},[["monte",{},["CM90"]],["monte",{},["CH89"]],["monte",{},["(CHH9)"]]]]]],["pr",{"codesi":"009390","obsnfp":"NFP","ref":"0000222239","refpg":"2222 39"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)(DCW66)}"]],["obsligne",{"ident":"L0851319"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X75 - CT 22X18"]]]],["reporg",{},[["monte",{},["TE35"]],["monte",{},["TD58"]],["monte",{},["TB23"]],["monte",{},["CM90"]],["monte",{},["TB94"]],["monte",{},["CH89"]],["monte",{},["(TE35)"]],["monte",{},["(CH89)"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002201SA","refpg":"2201 SA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)(DCW68)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X79"]]]],["reporg",{},[["monte",{},["CM91"]],["monte",{},["(CHJ0)"]],["monte",{},["CH90"]]]]]],["pr",{"codesi":"009390","obsnfp":"NFP","ref":"0000222240","refpg":"2222 40"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)(DCW68)}"]],["obsligne",{"ident":"L0851317"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X79 - CT 22X18"]]]],["reporg",{},[["monte",{},["CM91"]],["monte",{},["(TB95)"]],["monte",{},["TB25"]],["monte",{},["(TE36)"]],["monte",{},["CH90"]],["monte",{},["TE36"]],["monte",{},["(CH90)"]],["monte",{},["TB95"]],["monte",{},["TD59"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"299, 85, 11","shape":"circle"},[]]]]]]]]]]}

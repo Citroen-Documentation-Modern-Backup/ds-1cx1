@@ -1,18 +1,1 @@
-{
- "ref": "029001002072",
- "refDisplay": "0290 01 002072",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": "DEPOL US 87 (MOTEUR) DEPUIS OPR 06420",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX1",
-   "variantKey": "B0D=B0DA5&B0F=B0F5C",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"029001002072","refDisplay":"0290 01 002072","title":"ENSEMBLE MOTEUR","nature":"","applicability":"DEPOL US 87 (MOTEUR) DEPUIS OPR 06420","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX1","variantKey":"B0D=B0DA5&B0F=B0F5C","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CX1)(B0F5C)(DDC10)/($1,06420,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"013645"},[]],["thesaurus",{"type":"10","code":"013647"},[]],["thesaurus",{"type":"22","code":"P0003748"},[]],["mpr",{"catal":"0290","grp":"4","grp2":"01","maj":"20110924","numfich":"002072"},[["appl",{},["{(?1CX1)(B0F5C)(DDC10)/($1,06420,,)/}"]],["sti",{"ident":"401"},[]],["obspage",{"ident":"P0003748"},[]],["enssup",{},[["fourn",{},["22969R"]]]],["img",{"numfich":"00025257","path":"/img/pr/57/0002/00025257.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013645","obsnfp":"LE-2011","ref":"000001359L","refpg":"0135 9L"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)}"]]]],["reporg",{},[["monte",{},["DJY"]]]]]],["pr",{"codesi":"013647","ref":"00000139R5","refpg":"0139 R5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)(~2)}"]]]],["reporg",{},[["monte",{},["(DJY)"]],["monte",{},["DJY"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"276, 91, 11","shape":"circle"},[]]]]]]]]]]}

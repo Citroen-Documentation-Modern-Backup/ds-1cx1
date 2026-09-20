@@ -1,18 +1,1 @@
-{
- "ref": "029001333302",
- "refDisplay": "0290 01 333302",
- "title": "ENSEMBLE BLOC HYDRAULIQUE",
- "nature": "",
- "applicability": "BVA 4HP20",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX1",
-   "variantKey": "B0D=B0DA5&B0F=B0F3H",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"029001333302","refDisplay":"0290 01 333302","title":"ENSEMBLE BLOC HYDRAULIQUE","nature":"","applicability":"BVA 4HP20","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX1","variantKey":"B0D=B0DA5&B0F=B0F3H","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CX1)(B0F3H)(DBM15)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006417"},[]],["thesaurus",{"type":"21","code":"L0851708"},[]],["mpr",{"catal":"0290","grp":"610","grp2":"01","maj":"20110924","numfich":"333302"},[["appl",{},["{(?1CX1)(B0F3H)(DBM15)}"]],["sti",{"ident":"61001"},[]],["img",{"numfich":"00026832","path":"/img/pr/32/0002/00026832.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006417","obsnfp":"NFP","ref":"00002570E0","refpg":"2570 E0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)}"]],["obsligne",{"ident":"L0851708"},[]],["reffour",{},[["four",{},["99589Y"]]]]]],["reporg",{},[["monte",{},["(316)"]],["monte",{},["319"]],["monte",{},["(330)"]],["monte",{},["330"]],["monte",{},["(324)"]],["monte",{},["324"]],["monte",{},["316"]],["monte",{},["312"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"392, 181, 11","shape":"circle"},[]],["area",{"coords":"403, 288, 11","shape":"circle"},[]],["area",{"coords":"393, 148, 11","shape":"circle"},[]],["area",{"coords":"329, 117, 11","shape":"circle"},[]],["area",{"coords":"96, 372, 11","shape":"circle"},[]],["area",{"coords":"160, 292, 11","shape":"circle"},[]],["area",{"coords":"330, 77, 11","shape":"circle"},[]]]]]]]]]]}

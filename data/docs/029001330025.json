@@ -1,18 +1,1 @@
-{
- "ref": "029001330025",
- "refDisplay": "0290 01 330025",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM BE3",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX1",
-   "variantKey": "B0D=B0DA5&B0F=B0F2G",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"029001330025","refDisplay":"0290 01 330025","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM BE3","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX1","variantKey":"B0D=B0DA5&B0F=B0F2G","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CX1)(B0F2G)(@DBMRGD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0003782"},[]],["thesaurus",{"type":"21","code":"L0851326"},[]],["mpr",{"catal":"0290","grp":"67","grp2":"01","maj":"20110924","numfich":"330025"},[["appl",{},["{(?1CX1)(B0F2G)(@DBMRGD)}"]],["sti",{"ident":"6701"},[]],["obspage",{"ident":"P0003782"},[]],["img",{"numfich":"00005094","path":"/img/pr/94/0000/00005094.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002205SV","refpg":"2205 SV"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)(DCW08)(DJW00)}"]],["obsligne",{"ident":"L0851326"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)(DCW08)(DJW01)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 15X64"]]]],["reporg",{},[["monte",{},["CL73"]],["monte",{},["CM86"]],["monte",{},["(CMGR)"]],["monte",{},["(CM7R)"]],["monte",{},["CL7R"]],["monte",{},["CM74"]],["monte",{},["CM7D"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002201NE","refpg":"2201 NE"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)(DCW08)(DJW01)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 15X64"]]]],["reporg",{},[["monte",{},["CL73"]],["monte",{},["CM86"]],["monte",{},["(CLGC)"]],["monte",{},["(CMWR)"]],["monte",{},["CL7R"]],["monte",{},["CM74"]],["monte",{},["CM7D"]],["monte",{},["(CMGD)"]],["monte",{},["(CMW4)"]],["monte",{},["CMGR"]],["monte",{},["CM7R"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"299, 85, 11","shape":"circle"},[]]]]]]]]]]}

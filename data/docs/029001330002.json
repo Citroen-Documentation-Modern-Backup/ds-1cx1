@@ -1,18 +1,1 @@
-{
- "ref": "029001330002",
- "refDisplay": "0290 01 330002",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM BE3",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX1",
-   "variantKey": "B0D=B0DA5&B0F=B0F2Z",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"029001330002","refDisplay":"0290 01 330002","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM BE3","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX1","variantKey":"B0D=B0DA5&B0F=B0F2Z","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CX1)(B0F2Z)(@DBMRGD)(B0DA5)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0003777"},[]],["thesaurus",{"type":"21","code":"L0851295"},[]],["mpr",{"catal":"0290","grp":"67","grp2":"01","maj":"20110924","numfich":"330002"},[["appl",{},["{(?1CX1)(B0F2Z)(@DBMRGD)(B0DA5)}"]],["sti",{"ident":"6701"},[]],["obspage",{"ident":"P0003777"},[]],["img",{"numfich":"00005094","path":"/img/pr/94/0000/00005094.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002205RF","refpg":"2205 RF"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)}"]],["obsligne",{"ident":"L0851295"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X72"]]]],["reporg",{},[["monte",{},["TB28"]],["monte",{},["CH95"]],["monte",{},["CM92"]],["monte",{},["(TB2H)"]],["monte",{},["TB30"]],["monte",{},["TA33"]],["monte",{},["TB2H"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002201SC","refpg":"2201 SC"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)/($,,7,8831000)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X72"]]]],["reporg",{},[["monte",{},["CH95"]],["monte",{},["CM92"]],["monte",{},["CHJ5"]],["monte",{},["TA33"]],["monte",{},["(CHJ5)"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"0000222345","refpg":"2223 45"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)/($7,8831001,,)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X72"]]]],["reporg",{},[["monte",{},["TB28"]],["monte",{},["TB30"]],["monte",{},["(TBN8)"]],["monte",{},["(TBB8)"]],["monte",{},["TB2H"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"299, 85, 11","shape":"circle"},[]]]]]]]]]]}

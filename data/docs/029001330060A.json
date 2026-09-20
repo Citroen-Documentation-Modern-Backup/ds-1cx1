@@ -1,18 +1,1 @@
-{
- "ref": "029001330060A",
- "refDisplay": "0290 01 330060A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM ML5T",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX1",
-   "variantKey": "B0D=B0DA5&B0F=B0F3H",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"029001330060A","refDisplay":"0290 01 330060A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM ML5T","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX1","variantKey":"B0D=B0DA5&B0F=B0F3H","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CX1)(B0F3H)(DBM18)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0003787"},[]],["thesaurus",{"type":"21","code":"L0851352"},[]],["thesaurus",{"type":"21","code":"L0851353"},[]],["mpr",{"catal":"0290","grp":"67","grp2":"01","maj":"20110924","numfich":"330060A"},[["appl",{},["{(?1CX1)(B0F3H)(DBM18)}"]],["sti",{"ident":"6701"},[]],["obspage",{"ident":"P0003787"},[]],["img",{"numfich":"00031879","path":"/img/pr/79/0003/00031879.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002222E6","refpg":"2222 E6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)(DCW52)}"]],["obsligne",{"ident":"L0851352"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP(16X69)-CT(20X25)P"]]]],["reporg",{},[["monte",{},["LE30"]],["monte",{},["LE11"]],["monte",{},["(LE89)"]],["monte",{},["LE62"]],["monte",{},["LE47"]],["monte",{},["(LE62)"]],["monte",{},["LE01"]],["monte",{},["LE89"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"0000222385","refpg":"2223 85"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)(DCW52)(~2)}"]],["obsligne",{"ident":"L0851353"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP 16X 69 - CT 20X25"]]]],["reporg",{},[["monte",{},[" LED7"]],["monte",{},[" LEA1"]],["monte",{},[" LE11"]],["monte",{},["(LEF2)"]],["monte",{},[" LE30"]],["monte",{},[" LEC0"]],["monte",{},[" LE62"]],["monte",{},[" LE47"]],["monte",{},[" LEF2"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"354, 104, 11","shape":"circle"},[]]]]]]]]]]}

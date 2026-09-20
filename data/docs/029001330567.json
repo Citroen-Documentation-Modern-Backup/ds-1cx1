@@ -1,18 +1,1 @@
-{
- "ref": "029001330567",
- "refDisplay": "0290 01 330567",
- "title": "NECESSAIRE REPAR POCHETTES JOINTS BVA",
- "nature": "",
- "applicability": "BVA 4HP20",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX1",
-   "variantKey": "B0D=B0DA5&B0F=B0F3H",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"029001330567","refDisplay":"0290 01 330567","title":"NECESSAIRE REPAR POCHETTES JOINTS BVA","nature":"","applicability":"BVA 4HP20","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX1","variantKey":"B0D=B0DA5&B0F=B0F3H","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CX1)(B0F3H)(DBM15)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006224"},[]],["thesaurus",{"type":"21","code":"L0851366"},[]],["mpr",{"catal":"0290","grp":"94","grp2":"01","maj":"20110924","numfich":"330567"},[["appl",{},["{(?1CX1)(B0F3H)(DBM15)}"]],["sti",{"ident":"9401"},[]],["img",{"numfich":"00050791","path":"/img/pr/91/0005/00050791.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006224","ref":"0000229955","refpg":"2299 55"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX1)}"]],["obsligne",{"ident":"L0851366"},[]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"370, 457, 11","shape":"circle"},[]]]]]]]]]]}
